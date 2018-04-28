@@ -6,7 +6,7 @@ public class He {
 		// TODO Auto-generated method stub
 		
 		SalesDate s = new SalesDate();
-		s.display();
+		s.display("Jessika");
 	    System.out.println( "Hello World!" );
 	}
 
